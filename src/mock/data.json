@@ -1,0 +1,939 @@
+{
+  "info": {
+    "name": "海博英语培训",
+    "description": "约课力推",
+    "deliveryTime": 28,    
+    "score": 4.2,
+    "serviceScore": 4.1,
+    "foodScore": 4.3,
+    "rankRate": 69.2,
+    "minPrice": 20,
+    "deliveryPrice": 4,
+    "ratingCount": 24,
+    "sellCount": 90,
+    "distance": "1000m",
+    "bulletin": "海博致力于英语培训，为中小学生提供优质的英语教育，建校20年，师资力量雄厚",
+    "gifts":[
+      {"content":"免费赠送两次试听课","type":0,"name":"试听"},
+      {"content":"免费出国签证咨询","type":1,"name":"咨询"},
+      {"content":"免费口语1V1辅导","type":0,"name":"试听"}],
+    "supports": [
+      {
+        "icon": "http://1.z9ls.com/t6/701/1555500796x2728278865.png",
+        "name": "免费WIFI"
+      },
+       {
+        "icon": "http://1.z9ls.com/t6/701/1555500796x2728278865.png",
+        "name": "0元试听"
+      },
+       {
+        "icon": "http://1.z9ls.com/t6/701/1555500796x2728278865.png",
+        "name": "免费点心"
+      },
+       {
+        "icon": "http://1.z9ls.com/t6/701/1555500796x2728278865.png",
+        "name": "私人订制课程"
+      },
+       {
+        "icon": "http://1.z9ls.com/t6/701/1555500796x2728278865.png",
+        "name": "学习能力测试"
+      },
+       {
+        "icon": "http://1.z9ls.com/t6/701/1555500796x2728278865.png",
+        "name": "英语水平测试"
+      }
+    ],
+    "avatar": "http://kan.027cgb.com/620829/1.jpg",
+    "bgImg": "http://kan.027cgb.com/620829/jpg.jpg",
+    "pics": [
+      "http://kan.027cgb.com/621101/19-1.jpg",
+      "http://kan.027cgb.com/621101/19-2.jpg",
+      "http://kan.027cgb.com/621101/19-3.jpg",
+      "http://kan.027cgb.com/621101/19-1.jpg"
+    ],
+    "category": "英语",
+    "phone": "18501083744",
+    "address": "北京市丰台区太平桥44号",
+    "workTime": "09:35-24:00"
+  },
+  "goods": [
+    {
+      "name": "优惠课程",
+      "icon": "https://fuss10.elemecdn.com/b/91/8cf4f67e0e8223931cd595dc932fepng.png",
+      "course": [
+        {
+          "name": "暑假雅思6.0-7.0VIP精品班",
+          "price": 9980,
+          "oldPrice": "10080",
+          "description": "雅思",
+          "type": "正式课",
+          "rating": 10,
+          "info": "16人以下课程",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://1.z9ls.com/t6/701/1555500555x1822611431.jpg",
+          "image": "http://kan.027cgb.com/620829/c1.jpg",
+          "id":1
+        },
+        {
+          "name": "雅思全能班",
+          "price": 14980,
+          "oldPrice": "18800",
+          "description": "雅思",
+          "type": "正式课",
+          "rating": 100,
+          "info": "6人以下",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://1.z9ls.com/t6/701/1555500575x2890149554.jpg",
+          "image": "http://kan.027cgb.com/620829/c2.jpg",
+          "id":2
+        },
+        {
+          "name": "口语精品班",
+          "price": 7080,
+          "oldPrice": "9600",
+          "description": "口语",
+          "type": "口语",
+          "rating": 100,
+          "info": "6人以下",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://1.z9ls.com/t6/701/1555500593x2890191817.jpg",
+          "image": "http://kan.027cgb.com/620829/c3.jpg",
+          "id":3
+        }
+      ]
+    },
+    {
+      "name": "名师推荐",
+      "icon": "https://fuss10.elemecdn.com/0/6a/05b267f338acfeb8bd682d16e836dpng.png",
+      "course": [
+        {
+          "name": "李楠",
+          "tag":"金牌讲师",
+          "year": 233,
+          "oldPrice": "",
+          "description": "8年教龄",
+          "type": "口语",
+          "rating": 92,
+          "info": "语言培训机构专职教师",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "老师很厉害",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://1.z9ls.com/t6/701/1555501932x2728278865.jpg",
+          "image": "http://kan.027cgb.com/620829/l1.jpg",
+          "id":4
+        },
+        {
+          "name": "方淼",
+          "tag":"钻石讲师",
+          "year": 105,
+          "oldPrice": "",
+          "description": "",
+          "type": "雅思",
+          "rating": 100,
+          "info": "语言培训机构专职教师",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://1.z9ls.com/t6/701/1555502040x2890211768.jpg",
+          "image": "http://kan.027cgb.com/620829/l2.jpg",
+          "id":5
+        },
+        {
+          "name": "Jack",
+          "tag":"金牌讲师",
+          "year": 456,
+          "oldPrice": "",
+          "description": "",
+          "type": "作文",
+          "rating": 100,
+          "info": "语言培训机构专职教师",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://1.z9ls.com/t6/701/1555502139x2728278578.jpg",
+          "image": "http://kan.027cgb.com/620829/l3.jpg",
+          "id":6
+        },
+        {
+          "name": "张宇",
+          "tag":"钻石讲师",
+          "year": 56,
+          "oldPrice": "",
+          "description": "",
+          "type": "作文",
+          "rating": 100,
+          "info": "语言培训机构专职教师",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://1.z9ls.com/t6/701/1555502248x2728278865.jpg",
+          "image": "http://kan.027cgb.com/620829/l4.jpg",
+          "id":7
+        }
+      ]
+    }
+  ],
+  "ratings": [
+    {
+      "username": "3******c",
+      "rateTime": 1469281964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "不错,非常赞,老师很亲切，讲的也好,强烈推荐.",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": [
+        "精品雅思课程",
+        "张宇老师"
+      ]
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1469271264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "deliveryTime": "",
+      "text": "服务态度不错",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": [
+        "口语"
+      ]
+    },
+    {
+      "username": "3******b",
+      "rateTime": 1469261964000,
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "1******c",
+      "rateTime": 1469261864000,
+      "deliveryTime": 20,
+      "score": 5,
+      "rateType": 0,
+      "text": "良心机构",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "2******d",
+      "rateTime": 1469251264000,
+      "deliveryTime": 10,
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "9******0",
+      "rateTime": 1469241964000,
+      "deliveryTime": 70,
+      "score": 1,
+      "rateType": 1,
+      "text": "讲课真的很棒",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "d******c",
+      "rateTime": 1469231964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "很喜欢",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1469221264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "感觉挺好看的",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******8",
+      "rateTime": 1469211964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "a******a",
+      "rateTime": 1469201964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "孩子说这家老师真的很负责",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": [
+        "Jack"
+      ]
+    },
+    {
+      "username": "3******3",
+      "rateTime": 1469191264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "好",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "t******b",
+      "rateTime": 1469181964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "f******c",
+      "rateTime": 1469171964000,
+      "deliveryTime": 15,
+      "score": 5,
+      "rateType": 0,
+      "text": "速度很快",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "k******3",
+      "rateTime": 1469161264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "u******b",
+      "rateTime": 1469151964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "下雨天老师还过来，真的很感动",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "s******c",
+      "rateTime": 1469141964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "好",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "z******3",
+      "rateTime": 1469131264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "下次还回来",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "n******b",
+      "rateTime": 1469121964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "发票开的不对",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "m******c",
+      "rateTime": 1469111964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "好",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "l******3",
+      "rateTime": 1469101264000,
+      "deliveryTime": 40,
+      "score": 5,
+      "rateType": 0,
+      "text": "还不错吧",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******o",
+      "rateTime": 1469091964000,
+      "deliveryTime": "",
+      "score": 2,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******p",
+      "rateTime": 1469081964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "很喜欢张淼老师",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "o******k",
+      "rateTime": 1469071264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "k******b",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    }
+  ],
+  "course":{
+      "img":"http://kan.027cgb.com/620829/bgc.png",
+      "title":"暑假雅思6.0-7.0VIP精品班",
+      "pricenow":9980,
+      "priceold":14400,
+      "gift":[
+        "免费赠送2次试听课",
+        "免费领取出国签证指导意见"
+      ],
+      "character":[
+        "全面解析雅思考试特点提分点",
+        "课程顾问全程跟踪服务",
+        "全部学习资料免费拷贝"
+      ],
+      "who":[
+        "高考英语125分以上",
+        "四级成绩良好",
+        "六级通过学院或其他同等水平"
+      ],
+      "plan":[
+        "听说读写全突破，直冲雅思7分"],
+      "content":"课程基于对雅思考试的分析，对学员备考的整个过程进行规划，分模块完成知识点的讲解，使学员完成从6分到获得7分目标分数的全过程学习。"
+    },
+  "categories":[
+    {
+      "cata":"文化课",
+      "company":[
+        {
+          "name":"海博英语学校",
+          "rating":4.2,
+          "count":12,
+          "price":80,
+          "have_gone":420,
+          "have_watched":2001,
+          "img":"http://kan.027cgb.com/620829/co6.png",
+          "id":1
+        },
+        {
+          "name":"陈林数学课堂",
+          "rating":4.5,
+          "count":20,
+          "price":81,
+          "have_gone":320,
+          "have_watched":1002,
+          "img":"http://kan.027cgb.com/620829/co2.png",
+          "id":2
+        },
+        {
+          "name":"祝博士学习吧",
+          "rating":5,
+          "count":12,
+          "price":30,
+          "have_gone":120,
+          "have_watched":3212,
+          "img":"http://kan.027cgb.com/620829/co4.png",
+          "id":3
+        },
+        {
+          "name":"天佑中学生培训基地",
+          "rating":3.1,
+          "count":12,
+          "price":100,
+          "have_gone":112,
+          "have_watched":3233,
+          "img":"http://kan.027cgb.com/620829/co.png",
+          "id":4
+
+        },
+        {
+          "name":"天虎培训中心",
+          "rating":3.8,
+          "count":144,
+          "price":8000,
+          "have_gone":720,
+          "have_watched":1231,
+          "img":"http://kan.027cgb.com/620829/5co.png",
+          "id":5
+        }
+      ]
+    },
+    {
+      "cata":"舞蹈",
+      "company":[
+        {
+          "name":"青少年宫舞蹈",
+          "rating":4.2,
+          "count":12,
+          "price":80,
+          "have_gone":420,
+          "have_watched":2001,
+          "img":"http://kan.027cgb.com/620829/co3.png",
+          "id":6
+        },
+        {
+          "name":"爱彩虹少儿舞蹈",
+          "rating":4.5,
+          "count":20,
+          "price":81,
+          "have_gone":320,
+          "have_watched":1002,
+          "img":"http://kan.027cgb.com/620829/co2.png",
+          "id":7
+        },
+        {
+          "name":"佩佩舞蹈基地",
+          "rating":5,
+          "count":12,
+          "price":30,
+          "have_gone":120,
+          "have_watched":3212,
+          "img":"http://kan.027cgb.com/620829/co.png",
+          "id":8
+        },
+        {
+          "name":"快乐艺术培训中心",
+          "rating":3.1,
+          "count":12,
+          "price":100,
+          "have_gone":112,
+          "have_watched":3233,
+          "img":"http://kan.027cgb.com/620829/5co.png",
+          "id":9
+        },
+        {
+          "name":"幼儿舞蹈学校",
+          "rating":3.8,
+          "count":144,
+          "price":8000,
+          "have_gone":720,
+          "have_watched":12312,
+          "img":"http://kan.027cgb.com/620829/co4.png",
+          "id":10
+        }
+      ]
+    },
+    {
+      "cata":"美术",
+      "company":[
+        {
+          "name":"天锋艺术培训",
+          "rating":4.2,
+          "count":12,
+          "price":80,
+          "have_gone":420,
+          "have_watched":2001,
+          "img":"http://kan.027cgb.com/620829/co6.png",
+          "id":11
+        },
+        {
+          "name":"高考美术中心",
+          "rating":4.5,
+          "count":20,
+          "price":81,
+          "have_gone":320,
+          "have_watched":1002,
+          "img":"http://kan.027cgb.com/620829/co.png",
+          "id":12
+        },
+        {
+          "name":"清华美院分校",
+          "rating":5,
+          "count":12,
+          "price":30,
+          "have_gone":120,
+          "have_watched":3212,
+          "img":"http://kan.027cgb.com/620829/co3.png",
+          "id":13
+        },
+        {
+          "name":"西华大学美术学院画室",
+          "rating":3.1,
+          "count":12,
+          "price":100,
+          "have_gone":112,
+          "have_watched":3233,
+          "img":"http://kan.027cgb.com/620829/5co.png",
+          "id":14
+        },
+        {
+          "name":"CG绘",
+          "rating":3.8,
+          "count":144,
+          "price":8000,
+          "have_gone":720,
+          "have_watched":12312,
+          "img":"http://kan.027cgb.com/620829/co2.png",
+          "id":15
+        }
+      ]
+    },
+    {
+      "cata":"乐器",
+      "company":[
+        {
+          "name":"爱乐钢琴艺术中心",
+          "rating":4.2,
+          "count":12,
+          "price":80,
+          "have_gone":420,
+          "have_watched":2001,
+          "img":"http://kan.027cgb.com/620829/co.png",
+          "id":16
+        },
+        {
+          "name":"电子乐器专卖",
+          "rating":4.5,
+          "count":20,
+          "price":81,
+          "have_gone":320,
+          "have_watched":1002,
+          "img":"http://kan.027cgb.com/620829/5co.png",
+          "id":17
+        },
+        {
+          "name":"天虎艺术培训中心",
+          "rating":3.8,
+          "count":144,
+          "price":8000,
+          "have_gone":720,
+          "have_watched":12312,
+          "img":"http://kan.027cgb.com/620829/co6.png",
+          "id":18
+        }
+      ]
+    },
+    {
+      "cata":"兴趣",
+      "company":[
+        {
+          "name":"成都第一泥塑中心",
+          "rating":4.2,
+          "count":12,
+          "price":80,
+          "have_gone":420,
+          "have_watched":2001,
+          "img":"http://kan.027cgb.com/620829/co4.png",
+          "id":19
+        },
+        {
+          "name":"cosplay道具制作培训",
+          "rating":4.5,
+          "count":20,
+          "price":81,
+          "have_gone":320,
+          "have_watched":1002,
+          "img":"http://kan.027cgb.com/620829/co3.png",
+          "id":20
+        },
+        {
+          "name":"祝博士学习吧",
+          "rating":5,
+          "count":12,
+          "price":30,
+          "have_gone":120,
+          "have_watched":3212,
+          "img":"http://kan.027cgb.com/620829/co2.png",
+          "id":21
+        },
+        {
+          "name":"CG绘",
+          "rating":3.1,
+          "count":12,
+          "price":100,
+          "have_gone":112,
+          "have_watched":3233,
+          "img":"http://kan.027cgb.com/620829/co.png",
+          "id":22
+        },
+        {
+          "name":"我爱十字绣",
+          "rating":3.8,
+          "count":144,
+          "price":8000,
+          "have_gone":720,
+          "have_watched":12312,
+          "img":"http://kan.027cgb.com/620829/5co.png",
+          "id":23
+        }
+      ]
+    },
+    {
+      "cata":"体育",
+      "company":[
+        {
+          "name":"成都市青少年宫",
+          "rating":4.2,
+          "count":12,
+          "price":80,
+          "have_gone":420,
+          "have_watched":2001,
+          "img":"http://kan.027cgb.com/620829/co6.png",
+          "id":24
+        }
+      ]
+    },
+    {
+      "cata":"外语",
+      "company":[
+        {
+          "name":"樱花日语",
+          "rating":4.2,
+          "count":12,
+          "price":80,
+          "have_gone":420,
+          "have_watched":2001,
+          "img":"http://kan.027cgb.com/620829/co6.png",
+          "id":25
+        },
+        {
+          "name":"小语种培训机构",
+          "rating":4.5,
+          "count":20,
+          "price":81,
+          "have_gone":320,
+          "have_watched":1002,
+          "img":"http://kan.027cgb.com/620829/5co.png",
+          "id":26
+        },
+        {
+          "name":"川外南方翻译学院",
+          "rating":5,
+          "count":12,
+          "price":30,
+          "have_gone":120,
+          "have_watched":3212,
+          "img":"http://kan.027cgb.com/620829/co2.png",
+          "id":27
+        },
+        {
+          "name":"川外成都校区",
+          "rating":3.1,
+          "count":12,
+          "price":100,
+          "have_gone":112,
+          "have_watched":3233,
+          "img":"http://kan.027cgb.com/620829/co3.png",
+          "id":28
+        },
+        {
+          "name":"祝博士学习吧",
+          "rating":3.8,
+          "count":144,
+          "price":8000,
+          "have_gone":720,
+          "have_watched":12312,
+          "img":"http://kan.027cgb.com/620829/co4.png",
+          "id":29
+        }
+      ]
+    },
+    {
+      "cata":"更多",
+      "company":[
+        {
+          "name":"调酒师专业培训",
+          "rating":4.2,
+          "count":12,
+          "price":80,
+          "have_gone":420,
+          "have_watched":2001,
+          "img":"http://kan.027cgb.com/620829/co.png",
+          "id":30
+        },
+        {
+          "name":"儿童成长基地",
+          "rating":4.5,
+          "count":20,
+          "price":81,
+          "have_gone":320,
+          "have_watched":1002,
+          "img":"http://kan.027cgb.com/620829/co2.png",
+          "id":31
+        },
+        {
+          "name":"家政专培",
+          "rating":5,
+          "count":12,
+          "price":30,
+          "have_gone":120,
+          "have_watched":3212,
+          "img":"http://kan.027cgb.com/620829/co3.png",
+          "id":32
+        },
+        {
+          "name":"南向职业技术学院",
+          "rating":3.1,
+          "count":12,
+          "price":100,
+          "have_gone":112,
+          "have_watched":3233,
+          "img":"http://kan.027cgb.com/620829/co4.png",
+          "id":33
+        }
+      ]
+    }
+  ]
+}
